@@ -1,1 +1,0 @@
-# lordzz-bot-wa
