@@ -1,23 +1,23 @@
-### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### I'm LORDZZ BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
-<a href="https://github.com/Fxc7"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
+<a href="https://github.com/lordzz2006"><img src="https://raw.githubusercontent.com/lordzz2006/lordzz-bot-wa/main/src/glitchtext.png"></a>
 </p>
 <br>
 
 
 
 <p align="center">
-<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="lordzz-bot-wa" src="https://img.shields.io/badge/-LORDZZ--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/lordzz2006"><img title="Author" src="https://img.shields.io/badge/AUTHOR-REYFANGANZ-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Fxc7/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxc7?color=blue&style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fxc7/termux-bot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Fxc7/termux-bot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fxc7/termux-bot-wa?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFxc7%2Ftermux-bot-wa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
+<a href="https://github.com/lordzz2006/followers"><img title="Followers" src="https://img.shields.io/github/followers/lordzz2006?color=blue&style=flat-square"></a>
+<a href="https://github.com/lordzz2006/lordzz-bot-wa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lordzz2006/lordzz-bot-wa?color=red&style=flat-square"></a>
+<a href="https://github.com/lordzz2006/lordzz-bot-wa/network/members"><img title="Forks" src="http://img.shields.io/github/forks/lordzz2006/lordzz-bot-wa?color=red&style=flat-square"></a>
+<a href="https://github.com/lordzz2006/lordzz-bot-wa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers-bot-wa?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFxc7%2Flordzz-bot-wa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -25,8 +25,8 @@
 ## I am Hungry Your Donate
 <hr color="black">
 
-* [Saweria](https://saweria.co/FarhanXCo)
-* [Trakteer](https://trakteer.id/FarhanXCo)
+* [Saweria](https://saweria.co/lordzznih)
+
 
 
 ## Tools
@@ -240,16 +240,12 @@ Follow The Steps Below!
 
 ## Special Thanks
 
-* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <a href="https://github.com/nurutomo"><img alt="GitHub" src="https://img.shields.io/badge/nurutomo%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <a href="https://github.com/affisjunianto"><img alt="GitHub" src="https://img.shields.io/badge/affisjunianto%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <img alt="GitHub" src="https://img.shields.io/badge/TEAM FXC7BOT%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-
-
+* LANG BOT ( GALANG )
+* DARK BOT
+* MY FRIENDS OTHER 🙂✨
 
 ## Group
 
-* <a href="https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/HlG720tO3kN2odsoGEUw7d"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
